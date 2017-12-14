@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class ExampleServlet extends HttpServlet {
 
-  private static final long serialVersionUID = 8914090542308271379L;
+  private static final long serialVersionUID = -3852141914946061354L;
 
   @Override
   protected void doGet(HttpServletRequest req, HttpServletResponse resp)
